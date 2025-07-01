@@ -22,7 +22,8 @@ Website ini saya buat untuk memperkenalkan diri saya sebagai developer dengan se
 | Vite          | Build tool cepat untuk proyek React    |
 | React         | Library untuk membangun UI interaktif  |
 | Tailwind CSS  | Framework CSS utility-first            |
-| Heroicons     | Ikon SVG siap pakai                    |
+| animate.css   | Animasi siap pakai                     |
+| AOS           | Animasi siap pakai                     |
 
 ---
 
