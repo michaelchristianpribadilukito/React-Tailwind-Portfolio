@@ -43,15 +43,21 @@ Website ini saya buat untuk memperkenalkan diri saya sebagai developer dengan se
 └── main.jsx        # Entry point React
 ```
 
+---
+
 ## 📦 Instalasi & Menjalankan Proyek
 
 1. Clone Repository
 2. Install Dependencies
 3. Jalankan di Lokal
 
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - feel free to use and modify it.
+
+---
 
 🙋‍♂ Kontak Saya
 
