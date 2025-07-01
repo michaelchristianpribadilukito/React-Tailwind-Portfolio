@@ -61,5 +61,5 @@ This project is licensed under the MIT License - feel free to use and modify it.
 
 🙋‍♂ Kontak Saya
 
-📫 **Email:** [michael@example.com](mailto:mcmikechrist@gmail.com)  
+📫 **Email:** [mcmikechrist@gmail.com](mailto:mcmikechrist@gmail.com)  
 🔗 **Sosial Media:** [LinkedIn](https://linkedin.com/in/michael-christian-623036233) | [Instagram](https://instagram.com/mcmikechrist)
