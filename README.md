@@ -49,12 +49,18 @@ Website ini saya buat untuk memperkenalkan diri saya sebagai developer dengan se
 
 1. Clone Repository
    ```bash
-   git clone https://github.com/username/portfolio-michael-christian.git
-   cd portfolio-michael-christian
+   git clone https://github.com/michaelchristianpribadilukito/React-Tailwind-Portfolio.git
+   cd React-Tailwind-Portfolio
    ```
-3. Install Dependencies
-4. Jalankan di Lokal
-
+2. Install Dependencies
+   ```bash
+   npm install
+   ```  
+3. Jalankan di Lokal
+   ```bash
+   npm run dev
+   ```
+   Buka browser di http://localhost:5173
 ---
 
 ## 📄 License
