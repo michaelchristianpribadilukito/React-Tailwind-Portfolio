@@ -1,6 +1,5 @@
 # Portofolio Pribadi - Dibangun dengan React & Tailwind CSS
 
-![Pratinjau Proyek](https://user-images.githubusercontent.com/username/repo/screenshot.png) <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
