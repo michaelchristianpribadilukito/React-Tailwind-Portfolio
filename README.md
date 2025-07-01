@@ -1,112 +1,55 @@
-# Portofolio Pribadi - Dibangun dengan React & Tailwind CSS
+# 🧑‍💻 Michael Christian - Portfolio Website
 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-</p>
-
-<p align="center">
-  Situs web portofolio pribadi yang modern dan responsif untuk menampilkan proyek dan keahlian saya.
-  <br />
-  <a href="https://michaelchristianpribadilukito.github.io/Vanilla-Web-Sekolah/"><strong>Lihat Demo »</strong></a>
-  <br />
-  <br />
-  <a href="https://github.com/michaelchristianpribadilukito/React-Tailwind-Portfolio/issues">Laporkan Bug</a>
-  ·
-  <a href="https://github.com/michaelchristianpribadilukito/React-Tailwind-Portfolio/issues">Minta Fitur</a>
-</p>
+Selamat datang di repository web portfolio saya!  
+Website ini saya buat untuk memperkenalkan diri saya sebagai developer dengan semangat tinggi dalam dunia pemrograman dan pemecahan masalah. Dibangun menggunakan **Vite**, **React**, dan **Tailwind CSS**.
 
 ---
 
-## 📝 Daftar Isi
+## ✨ Fitur
 
-- [Tentang Proyek](#-tentang-proyek)
-- [Fitur Utama](#-fitur-utama)
-- [Dibangun Dengan](#-dibangun-dengan)
-- [Memulai](#-memulai)
-  - [Prasyarat](#prasyarat)
-  - [Instalasi](#instalasi)
-- [Kontak](#-kontak)
+- Desain responsif & modern
+- Navigasi antar halaman: Beranda, Tentang, Proyek, Kontak
+- Tombol untuk melihat proyek & download CV
+- Quote motivasi personal
+- Gambar profil yang rapi dan elegan
 
 ---
 
-## 👨‍💻 Tentang Proyek
+## 🚀 Teknologi yang Digunakan
 
-Proyek ini adalah implementasi dari situs web portofolio pribadi yang sepenuhnya responsif. Tujuannya adalah untuk menciptakan platform yang bersih, modern, dan menarik secara visual untuk menampilkan daftar proyek, keahlian teknis, dan informasi kontak saya.
-
-Situs ini dirancang dengan pendekatan *mobile-first* dan menggunakan komponen-komponen React untuk struktur yang modular dan mudah dikelola.
-
----
-
-## ✨ Fitur Utama
-
-- **Desain Responsif**: Tampilan yang optimal di semua perangkat, dari ponsel hingga desktop.
-- **Animasi Scroll**: Implementasi `AOS (Animate On Scroll)` untuk memberikan efek animasi saat pengguna menggulir halaman.
-- **Ikon Cantik**: Menggunakan `Remixicon` untuk ikon yang tajam dan konsisten.
-- **Komponen Modular**: Dibangun dengan komponen React untuk setiap bagian (Navbar, Hero, About, Projects, Contact, Footer).
-- **Formulir Kontak**: Formulir fungsional yang terintegrasi dengan [FormSubmit](https://formsubmit.co/) untuk menerima pesan.
-- **Pramuat Halaman**: Efek pemuatan awal untuk memastikan pengalaman pengguna yang lancar.
+| Teknologi     | Keterangan                             |
+| ------------- | -------------------------------------- |
+| Vite          | Build tool cepat untuk proyek React    |
+| React         | Library untuk membangun UI interaktif  |
+| Tailwind CSS  | Framework CSS utility-first            |
+| Heroicons     | Ikon SVG siap pakai                    |
 
 ---
 
-## 🛠️ Dibangun Dengan
+## 📂 Struktur Direktori
 
-Daftar teknologi dan pustaka utama yang digunakan dalam proyek ini.
+```bash
+📁 public/
+├── assets/         # Gambar & aset
+📁 src/         
+├──📁 components/     # Komponen reusable seperti Navbar, Footer, PreLoader
+├── data.js         # Dictionary yang mengaitkan dengan aset
+├── index.css       # import tailwind dan font
+├── App.jsx         # Root component
+└── main.jsx        # Entry point React
+```
 
-* **Framework Inti**:
-    * [React.js](https://reactjs.org/)
-    * [Vite](https://vitejs.dev/)
-* **Styling**:
-    * [Tailwind CSS](https://tailwindcss.com/)
-* **Animasi & Ikon**:
-    * [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/)
-    * [Animate.css](https://animate.style/)
-    * [Remixicon](https://remixicon.com/)
-* **Linting & Formatting**:
-    * [ESLint](https://eslint.org/)
+## 📦 Instalasi & Menjalankan Proyek
 
----
+1. Clone Repository
+2. Install Dependencies
+3. Jalankan di Lokal
 
-## 🚀 Memulai
+## 📄 License
 
-Untuk mendapatkan salinan lokal dan menjalankannya, ikuti langkah-langkah sederhana ini.
+This project is licensed under the MIT License - feel free to use and modify it.
 
-### Prasyarat
+🙋‍♂ Kontak Saya
 
-Pastikan Anda memiliki Node.js dan npm terinstal di mesin Anda.
-* npm
-    ```sh
-    npm install npm@latest -g
-    ```
-
-### Instalasi
-
-1.  Kloning repositori ini
-    ```sh
-    git clone [https://github.com/michaelchristianpribadilukito/React-Tailwind-Portfolio.git](https://github.com/michaelchristianpribadilukito/React-Tailwind-Portfolio.git)
-    ```
-2.  Masuk ke direktori proyek
-    ```sh
-    cd React-Tailwind-Portfolio
-    ```
-3.  Instal paket npm
-    ```sh
-    npm install
-    ```
-4.  Jalankan aplikasi dalam mode pengembangan
-    ```sh
-    npm run dev
-    ```
-    Buka [http://localhost:5173](http://localhost:5173) untuk melihatnya di browser.
-
----
-
-## 📫 Kontak
-
-Michael Christian
-
-- **Email**: `mcmikechrist@gmail.com`
-- **GitHub**: [michaelchristianpribadilukito](https://github.com/michaelchristianpribadilukito)
-- **Instagram**: [@mcmikechrist](https://www.instagram.com/mcmikechrist/)
-
-Dibuat dengan cinta dan kode oleh Michael Christian.
+📫 **Email:** [michael@example.com](mailto:mcmikechrist@gmail.com)  
+🔗 **Sosial Media:** [LinkedIn](https://linkedin.com/in/michael-christian-623036233) | [Instagram](https://instagram.com/mcmikechrist)
