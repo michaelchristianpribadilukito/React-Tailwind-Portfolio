@@ -48,8 +48,12 @@ Website ini saya buat untuk memperkenalkan diri saya sebagai developer dengan se
 ## 📦 Instalasi & Menjalankan Proyek
 
 1. Clone Repository
-2. Install Dependencies
-3. Jalankan di Lokal
+   ```bash
+   git clone https://github.com/username/portfolio-michael-christian.git
+   cd portfolio-michael-christian
+   ```
+3. Install Dependencies
+4. Jalankan di Lokal
 
 ---
 
