@@ -8,10 +8,13 @@ Website ini saya buat untuk memperkenalkan diri saya sebagai developer dengan se
 ## ✨ Fitur
 
 - Desain responsif & modern
-- Navigasi antar halaman: Beranda, Tentang, Proyek, Kontak
+- Navigasi antar section: Beranda, Tentang, Proyek, Kontak
 - Tombol untuk melihat proyek & download CV
 - Quote motivasi personal
 - Gambar profil yang rapi dan elegan
+- Section tentang untuk melihat pengalaman dan jumlah projek yang sudah selesai
+- Section Proyek untuk menampilkan proyek
+- Section Kontak untuk menghubungi developer
 
 ---
 
